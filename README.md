@@ -14,3 +14,12 @@ This version is no longer in service and only works for one Steam game at a time
 - Automatic update checking and development build checking
 - Make the bot say anything
 - Get the player count of any game
+
+### Usage
+- Download Python
+- Download the libaries at the top of the main.py file
+- Edit your config at the top of the main.py file
+- Start the bot!
+
+## Version 2.0 (Discord.js)
+Coming soon to a GitHub repo near you!
